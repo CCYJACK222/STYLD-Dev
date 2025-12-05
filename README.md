@@ -1,4 +1,4 @@
-# STLDY-Dev
-STLDY Development
+# STYLD-Dev
+STYLD Development
 made by Matt, Jack, Kyle
 
