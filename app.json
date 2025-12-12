@@ -1,5 +1,6 @@
 {
   "expo": {
+    "scheme": "STLDYapp",  
     "name": "STLDY-Dev",
     "slug": "STLDY-Dev",
     "version": "1.0.0",
@@ -24,6 +25,9 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "plugins": [
+      "expo-router"
+    ]
   }
 }
